@@ -1,1 +1,3 @@
-# Cold brew shop by using the Spring framework
+# Cold brew shop
+# - JAVA Language
+# - Spring framework
