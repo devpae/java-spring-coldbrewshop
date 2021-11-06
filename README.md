@@ -1,1 +1,1 @@
-# java-spring-coldbrewshop
+# Cold brew shop by using the Spring Framework
